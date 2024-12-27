@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Git\\NBC\\NBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\NBC\\NBC\\\uC18C\uC18C\uD3F4\uB354\\simpe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\uC18C\uC18C\uD3F4\uB354\\simpe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\NBC\\NBC\\cppFile\\simpe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cppFile\\simpe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\NBC\\NBC\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "simpe.cpp",
-              "DocumentMoniker": "D:\\Git\\NBC\\NBC\\\uC18C\uC18C\uD3F4\uB354\\simpe.cpp",
-              "RelativeDocumentMoniker": "\uC18C\uC18C\uD3F4\uB354\\simpe.cpp",
-              "ToolTip": "D:\\Git\\NBC\\NBC\\\uC18C\uC18C\uD3F4\uB354\\simpe.cpp",
-              "RelativeToolTip": "\uC18C\uC18C\uD3F4\uB354\\simpe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Git\\NBC\\NBC\\cppFile\\simpe.cpp",
+              "RelativeDocumentMoniker": "cppFile\\simpe.cpp",
+              "ToolTip": "D:\\Git\\NBC\\NBC\\cppFile\\simpe.cpp",
+              "RelativeToolTip": "cppFile\\simpe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-26T07:40:22.421Z",
+              "WhenOpened": "2024-12-26T08:34:23.659Z",
               "EditorCaption": ""
             },
             {
